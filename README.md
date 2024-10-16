@@ -18,6 +18,7 @@ In industries where documentation is critical, such as shipping, finance, and le
 
 The Decentralized Document Registry is a step towards creating a more secure and efficient ecosystem for managing important documents, paving the way for future innovations in document verification and certification.
 
+Please do include your API key in index.html on the placeholder
 
 ## Foundry
 
